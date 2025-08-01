@@ -1,0 +1,381 @@
+{
+  "navigation": {
+    "title": "以泛非愿景推动<br/>非洲转型，逐一变革各个领域"
+  },
+  "hero": {
+    "p1": "变革",
+    "p2": "加速器",
+    "p3": "致力于实现",
+    "p4": "智慧、",
+    "p5": "包容性",
+    "p6": "和可持续的发展",
+    "p7": "滚动"
+  },
+  "event_title": "焦点活动",
+  "event_btn": "了解更多",
+  "events": [
+    {
+      "title": "就业论坛",
+      "date": "2025年11月01日至02日",
+      "location": "安塔那那利佛卡尔顿酒店",
+      "description": "马达加斯加国际招聘的战略性盛会。由Gate Africa Group主办，汇聚企业、机构与优秀人才。",
+      "label": "活动",
+      "link": "https://www.carrefour-emploi.com",
+      "imageUrl": "https://res.cloudinary.com/dikefxjpd/image/upload/v1751003214/event_jp92ix_1_dohm0e.jpg"
+    },
+    {
+      "title": "大学展览会",
+      "date": "2025年8月30日至31日",
+      "location": "安塔那那利佛宜必思酒店",
+      "description": "专注于了解集团旗下大学所提供课程与专业的活动。两天面对面交流与升学指导。",
+      "label": "活动",
+      "imageUrl": "https://res.cloudinary.com/dikefxjpd/image/upload/v1751003106/conference_1_jgkb0o.jpg"
+    }
+  ],
+  "gate_presentation": {
+    "description_title": "Gate Africa Group 是一家泛非集团，业务立足于马达加斯加、毛里求斯，并正积极拓展国际市场。",
+    "title": "Gate Africa Group",
+    "sectors": {
+      "education": {
+        "name": "教育与专业大学",
+        "description": "提供职业导向、模块化的高等教育，聚焦非洲大陆未来的关键行业。"
+      },
+      "health": {
+        "name": "健康与国际医疗",
+        "description": "提供专业治疗、医疗转运、个性化陪护，以及安全的医疗旅游体系建设。"
+      },
+      "tech": {
+        "name": "科技、数字化与创新",
+        "description": "数字解决方案、人工智能、网络安全、自动化，以及高影响力的平台项目，如 GateAfri 与 Afrimuz。"
+      },
+      "media": {
+        "name": "媒体、传播与战略营销",
+        "description": "音视频制作、数字媒体、品牌塑造、机构传播与泛非可见度宣传活动。"
+      },
+      "agriculture": {
+        "name": "农业、农工产业与国际贸易",
+        "description": "农产品生产、加工、动物营养、进出口，以及打造具有竞争力与可持续性的农业价值链。"
+      },
+      "business": {
+        "name": "商务拓展、商务旅游与专业旅游",
+        "description": "B2B与B2G对接、市场开拓、经贸考察、定制化商务行程（AfricaBusinessTour.com），以及专业、医疗或宗教旅游支持。"
+      },
+      "event": {
+        "name": "国际活动与非洲影响力传播",
+        "description": "策划高影响力的论坛、展会、会议与重大活动，如《非洲之夜》或 Africa IT Summit。"
+      }
+    },
+    "locations": {
+      "mg": {
+        "name": "马达加斯加",
+        "status": "总部"
+      },
+      "mu": {
+        "name": "毛里求斯",
+        "status": "区域办事处"
+      },
+      "intl": {
+        "name": "国际",
+        "status": "积极扩展中"
+      }
+    },
+    "activity": "我们的业务",
+    "activity_title": "服务于一体化、可持续和泛非发展的战略性行业。",
+    "implantation": "我们的布局",
+    "implantation_title": "国际影响力",
+    "implantation_description": "不断扩展的战略网络，服务遍及全球的客户。",
+    "expansion_title": "持续扩展",
+    "expansion_description": "我们的国际发展战略使我们成为印度洋及更广区域的重要参与者。",
+    "president": {
+      "title": "首席执行官寄语",
+      "name": "Rojo Claudino Andrianasolo",
+      "role": "Gate Africa Group 总裁",
+      "paragraphs": [
+        "“非洲拥有丰富的人才、创意和资源。如今，它需要的是一个能够组织这些财富、促进其成长，并将其连接到现实机遇的生态系统。这正是 Gate Africa Group 所承担的使命。”",
+        "我们的使命十分明确：通过教育、科技、健康、农业、媒体、经济发展和创新，将这些关键领域置于战略核心，逐一推动非洲大陆的转型。",
+        "我们总部设在马达加斯加和毛里求斯，并面向全球拓展，致力于在非洲人才与全球市场之间搭建桥梁，同时深深植根于本地实际。",
+        "通过我们的大学、数字平台、泛非活动、农工项目，以及我们在健康、旅游、商务发展和招聘方面的行动，我们坚信一个强大、自主、互联的非洲是可能的。",
+        "同时，我们始终秉持以人为本的理念。通过我们的非政府组织 Gate Africa Humanitarian，我们与社区携手，支持儿童教育、抗击儿童癌症、保护环境、防止性别暴力，并帮助最脆弱的人群。",
+        "发展非洲，也意味着让他人成长。",
+        "Gate Africa Group 不仅仅是一个多元业务集团，它是一种愿景、一套影响力机制，以及以方法、自信和勇气建设未来非洲的坚定决心。",
+        "“发展不是一个承诺，而是一项建设。而我们正在奠定基础。”"
+      ]
+    },
+    "infoCards": {
+      "devise": {
+        "title": "我们的格言",
+        "description": "“通过教育、创新与机遇，建设明日非洲。”"
+      },
+      "vision": {
+        "title": "我们的愿景",
+        "description": "成为连接人才、知识、资源与企业的泛非领导者，推动经济、科技、教育与社会发展的具体项目。"
+      },
+      "mission": {
+        "title": "我们的使命",
+        "list": [
+          "在教育、健康、科技、农工产业和媒体领域提供一体化解决方案",
+          "培养推动经济转型的专业人才",
+          "搭建通往国际市场的桥梁",
+          "助力区域的可持续发展"
+        ]
+      }
+    }
+  },
+  "africa_magazine": {
+    "title": "媒体板块 - 国内与国际",
+    "subtitle": "GATE OF AFRICA 杂志",
+    "headline": "实时追踪",
+    "subheadline": "非洲的发展进程",
+    "description": "通过 Gate Africa Group 的权威在线媒体平台，了解非洲大陆的经济、政治与社会动态。",
+    "highlights": ["数百万用户关注", "泛非覆盖", "新闻实时更新"],
+    "cta": "访问 GateOfAfrica.com",
+    "caption": "您可信赖的非洲资讯来源"
+  },
+  "radio": {
+    "title": "E-media 107.8 FM",
+    "subtitle": "您喜爱的本地电台",
+    "visitStudio": "参观我们的演播室",
+    "about": {
+      "features": [
+        "收听优质音乐、您喜爱的节目，并获取高质量的教育内容。",
+        "E-media FM：马达加斯加首屈一指的经济与教育类广播电台，覆盖全国五大主要地区。"
+      ],
+      "cta": "收听广播",
+      "stats": [
+        { "title": "#1", "subtitle": "经济广播电台" },
+        { "title": "5+", "subtitle": "主要地区" },
+        { "title": "📻", "subtitle": "教育内容" }
+      ]
+    }
+  },
+  "university": {
+    "title": "教育与高等教育板块",
+    "learnMore": "了解更多",
+    "synergy": "通过这种协同，我们培养的专业人才能够立即上岗，且完美契合企业和机构的需求。",
+    "sectionHeader": {
+      "badge": "学术卓越",
+      "title": "我们的三所大学优势",
+      "text1": "我们的优势在于三大高校的战略互补。",
+      "text2": "每所学校均具备针对性专业——先进技术、战略管理及创意产业，涵盖支持非洲重大经济转型的核心能力。"
+    },
+    "emedia": {
+      "name": "E-Media",
+      "description": "专注于视听、电影、音效及创意影像制作的大学",
+      "tags": ["视听", "电影", "制作"]
+    },
+    "ust": {
+      "name": "UST-IO",
+      "description": "专攻机器人、人工智能、自动化及新兴技术的大学",
+      "tags": ["机器人", "人工智能", "科技"]
+    },
+    "aeli": {
+      "name": "AELI",
+      "description": "聚焦建筑、能源、创业及应用技术专业的学院",
+      "tags": ["建筑", "能源", "商业"]
+    }
+  },
+  "health": {
+    "title": "健康板块 — 创新诊所与国际医疗旅游",
+    "subtitle": "Gate Africa Group 通过两个互补机构开展健康领域的相关业务",
+    "clinic": {
+      "title": "创新诊所",
+      "tagline": "一家现代化医疗中心，专注于优质护理与医疗创新，",
+      "subtagline": "结合本地专业知识与国际标准。",
+      "description": "创新诊所提供专业治疗、先进诊断服务及个性化患者支持。",
+      "badge1": "专业护理",
+      "badge2": "先进诊断",
+      "badge3": "个性化支持",
+      "buttonLabel": "了解更多"
+    },
+    "tourism": {
+      "title": "国际医疗旅游",
+      "tagline": "专注于国际医疗行程组织的平台，",
+      "subtagline": "帮助患者便捷就医，连接顶级医疗机构。",
+      "description": "国际医疗旅游负责整个流程：诊断、后勤安排、行政支持及治疗后跟进。",
+      "region": "覆盖非洲、毛里求斯、印度及欧洲。",
+
+      "badge1": "诊断",
+      "badge2": "后勤安排",
+      "badge3": "行政支持",
+      "badge4": "治疗后跟进",
+      "buttonLabel": "了解更多"
+    }
+  },
+  "sophys": {
+    "title": "Sophys",
+    "subtitle": "— 卫生、清洁与综合卫生解决方案",
+    "paragraph1": "Sophys 是 Gate Africa Group 专注于专业卫生、工业清洁、消毒及全面卫生解决方案的子公司。",
+    "paragraph2": "除了传统的清洁服务，Sophys 还自主研发清洁与消毒产品系列，其中包括 <span>VIRUSTOP</span> 品牌，从源头到终端为客户提供全面可控的质量与安全保障。",
+    "badge1": "品质可控",
+    "badge2": "卫生解决方案",
+    "stat1": "100%",
+    "stat2": "24/7",
+    "satisfaction": "满意度",
+    "guarantee": "保障",
+    "buttonLabel": "了解更多"
+  },
+  "landmark": {
+    "title": "Landm'Ark",
+    "subtitle": "传播、营销与高端活动策划",
+    "description1": "是 Gate Africa Group 在传播、公关、战略营销和高附加值活动策划方面的专业子公司。",
+    "description2": "Landm'Ark 结合创意、技术专长与实地经验，助力企业与机构在非洲及国际范围内制定和执行其传播、品牌推广与知名度提升战略。",
+    "description3": {
+      "before": "凭借资深团队、专业设备及国际网络，Landm'Ark 提供",
+      "highlight": "一体化解决方案",
+      "after": "，兼具创新性，满足公共与私营经济体的多样化需求。"
+    },
+    "buttonLabel": "了解更多",
+    "download": "下载手册"
+  },
+  "agribusiness": {
+    "title": "Gate Africa 农业与农工板块",
+    "tagline": "农业与农工产业",
+    "description": "<span>Gate Africa Agribusiness</span> 是 Gate Africa Group 的农业与农工产业分支，致力于农业在生产、加工及增值方面的战略性发展。",
+    "subdescription1": "我们的方法涵盖整个价值链，从生产到市场销售，注重可持续模式、技术创新与农业创业精神。",
+    "subdescription2": "Gate Africa Agribusiness 积极推动粮食自主、地方就业与可持续经济发展，将农业定位为非洲<span>真正的增长引擎</span>。",
+    "badge": "真正的增长引擎",
+    "buttonLabel": "了解更多"
+  },
+  "gateAfricaDigital": {
+    "title": "数字与科技部门",
+    "num": "数字化",
+    "tech": "科技",
+    "description": "通过创新、人工智能和数字解决方案，加速非洲的数字化转型。",
+    "domainsTitle": "我们的专业领域",
+    "domains": [
+      {
+        "title": "数字平台",
+        "description": "开发数字平台（教育、媒体、招聘、社会经济）"
+      },
+      {
+        "title": "人工智能",
+        "description": "人工智能与自动化（通过我们的技术大学 UST-IO）"
+      },
+      {
+        "title": "网络安全与云服务",
+        "description": "网络安全、云计算与数字基础设施"
+      },
+      {
+        "title": "数字内容",
+        "description": "数字内容创作、视听制作及泛非媒体"
+      },
+      {
+        "title": "数字化转型",
+        "description": "企业与政府的数字化转型"
+      }
+    ],
+    "projectsTitle": "面向未来的数字项目",
+    "projectsDescription": "两个正在开发中的革命性计划",
+    "projectBadge": "即将推出",
+    "inDevelopment": "开发中",
+    "projects": [
+      {
+        "name": "GateAfri",
+        "subtitle": "社会经济网络",
+        "description": "泛非网络，连接非洲大陆的人才、企业与机遇。",
+        "image": "https://res.cloudinary.com/dikefxjpd/image/upload/v1750660067/africagate_u18a88.jpg",
+        "color": "indigo",
+        "features": ["社交网络", "机遇", "人才", "全非洲"],
+        "badge": "即将推出"
+      },
+      {
+        "name": "Afrimuz",
+        "subtitle": "音乐平台",
+        "description": "一个旨在将非洲艺术家推向全球的音乐平台。",
+        "image": "https://res.cloudinary.com/dikefxjpd/image/upload/v1750660067/africamuz_lqpkh7.jpg",
+        "color": "fuchsia",
+        "features": ["音乐", "文化", "艺术家", "国际"],
+        "badge": "即将推出"
+      }
+    ]
+  },
+  "gateAfricaRecruitment": {
+    "hero": {
+      "title": "<span>商务发展</span> 与商务旅游",
+      "subtitle1": "战略连接",
+      "text1": "在非洲及更广泛区域建立战略联系，开拓市场。Gate Africa Group 致力于推动企业经济增长。",
+      "subtitle2": "一体化方法",
+      "text2": "我们通过一体化方式为投资者和机构提供支持，结合行业专长、战略对接与定制化服务。"
+    },
+    "cooperationAxes": {
+      "title": "合作方向",
+      "items": [
+        {
+          "title": "B2B",
+          "description": "企业之间的战略合作"
+        },
+        {
+          "title": "B2C",
+          "description": "企业与最终客户之间的连接"
+        },
+        {
+          "title": "B2A",
+          "description": "企业与政府机构之间的合作"
+        },
+        {
+          "title": "B2G",
+          "description": "企业与政府之间的合作"
+        },
+        {
+          "title": "G2G",
+          "description": "国际政府机构间合作"
+        }
+      ]
+    },
+    "services": {
+      "title": "我们的服务",
+      "items": [
+        "组织各行业商务考察旅行（教育、健康、农业、科技等）",
+        "协助投资者或公共决策者代表团",
+        "安排企业参访、论坛与市场调研之旅",
+        "高端物流与接待礼宾服务"
+      ]
+    }
+  },
+  "internationnal": {
+    "title": "活动板块",
+    "highlight": "国际",
+    "intro": "打造非洲及全球范围的交流、创新与影响力平台。Gate Africa Group 策划并组织具有深远影响力的活动，旨在连接非洲及全球的人才、企业、机构与变革推动者。",
+    "missionTitle": "我们的使命",
+    "missionText": "我们的活动旨在强化战略领域之间的协同合作，推动多方协作，加速经济发展。",
+    "eventsTitle": "旗舰活动",
+    "events": [
+      {
+        "title": "Carrefour de l'Emploi（就业交汇）",
+        "subtitle": "马达加斯加专场",
+        "description": "一场国际招聘论坛，连接非洲人才与全球雇主。",
+        "subtext": "促进职业流动性，展示本地技能，创造海外机会。",
+        "badge": "MADAGASCAR",
+        "color": "cyan"
+      },
+      {
+        "title": "非洲之夜盛典",
+        "subtitle": "马达加斯加 2025 专场",
+        "description": "一场庆祝非洲卓越的文化、经济与机构盛事。",
+        "subtext": "一场彰显非洲影响力的盛会。",
+        "badge": "MADAGASCAR 2025",
+        "color": "amber"
+      },
+      {
+        "title": "非洲 IT 峰会",
+        "subtitle": "毛里求斯专场（2026）",
+        "description": "致力于数字转型、人工智能与技术创新的泛非峰会。",
+        "subtext": "聚集决策者、机构、科技企业及合作伙伴，共同探讨数字议题。",
+        "badge": "MAURITIUS 2026",
+        "color": "purple"
+      }
+    ]
+  },
+  "footer": {
+    "aboutText": "携手共建非洲的美好未来！加入 Gate Africa Group，通过教育、医疗和创新改善生活，创造更美好的明天。",
+    "contactTitle": "联系我们",
+    "address": "Nanisana, Antananarivo 101, 马达加斯加",
+    "phone": "+23054884377",
+    "email": "contact@gateafricagroup.com",
+    "newsletterTitle": "订阅电子报",
+    "newsletterText": "订阅我们的电子报，获取最新资讯与独家优惠。",
+    "placeholder": "请输入您的邮箱地址",
+    "subscribe": "订阅",
+    "rights": "版权所有。"
+  }
+}

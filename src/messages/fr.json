@@ -1,0 +1,387 @@
+{
+  "navigation": {
+    "title": "Une vision panafricaine pour transformer <br/>l'Afrique, secteur par secteur"
+  },
+  "hero": {
+    "p1": "ACCÉLÉRATEUR",
+    "p2": "DE TRANSFORMATION",
+    "p3": "AU SERVICE D'UN DÉVELOPPEMENT",
+    "p4": "INTELLIGENT,",
+    "p5": "INCLUSIF",
+    "p6": " PÉRENNE",
+    "p7": " DÉFILER"
+  },
+  "event_title": "À la Une",
+  "event_btn": "En savoir plus",
+  "events": [
+    {
+      "title": "Carrefour de l'Emploi",
+      "date": "01 & 02 Novembre 2025",
+      "location": "HÔTEL Carlton Antananarivo",
+      "description": "Le rendez-vous stratégique du recrutement international à Madagascar. Organisé par Gate Africa Group, l'événement réunit entreprises, institutions et talents qualifiés.",
+      "label": "ÉVÉNEMENT",
+      "link": "https://www.carrefour-emploi.com",
+      "imageUrl": "https://res.cloudinary.com/dikefxjpd/image/upload/v1751003214/event_jp92ix_1_dohm0e.jpg"
+    },
+    {
+      "title": "Salon des Universités",
+      "date": "30 & 31 Août 2025",
+      "location": "HÔTEL Ibis Antananarivo",
+      "description": "Un rendez-vous dédié à la découverte des filières et formations proposées par les établissements universitaires du groupe. Deux journées d'échanges et d'orientation.",
+      "label": "ÉVÉNEMENT",
+      "imageUrl": "https://res.cloudinary.com/dikefxjpd/image/upload/v1751003106/conference_1_jgkb0o.jpg"
+    }
+  ],
+
+  "gate_presentation": {
+    "description_title": "Gate Africa Group est un groupe panafricain implanté à Madagascar, à l'île Maurice et en pleine expansion à l'international.",
+    "title": "Gate Africa Group",
+    "sectors": {
+      "education": {
+        "name": "Éducation & Universités spécialisées",
+        "description": "Des établissements d’enseignement supérieur professionnalisants, modulaires et tournés vers les métiers d’avenir du continent."
+      },
+      "health": {
+        "name": "Santé & Médical international",
+        "description": "Accès aux soins spécialisés, évacuations sanitaires, accompagnement personnalisé et structuration du tourisme médical sécurisé."
+      },
+      "tech": {
+        "name": "Technologie, numérique & innovation",
+        "description": "Solutions digitales, IA, cybersécurité, automatisation, et plateformes numériques à fort impact, dont les projets GateAfri et Afrimuz."
+      },
+      "media": {
+        "name": "Médias, communication & marketing stratégique",
+        "description": "Production audiovisuelle, presse digitale, branding, communication institutionnelle et campagnes de visibilité à l’échelle panafricaine."
+      },
+      "agriculture": {
+        "name": "Agriculture, agro-industrie & commerce international",
+        "description": "Production, transformation, nutrition animale, import-export, et structuration de filières agricoles compétitives et durables."
+      },
+      "business": {
+        "name": "Business Development, Tourisme d’affaires & Tourisme spécialisé",
+        "description": "Mise en relation B2B, B2G, développement de marchés, missions économiques, voyages d’affaires sur mesure via AfricaBusinessTour.com, et accompagnement en tourisme professionnel, médical ou religieux."
+      },
+      "event": {
+        "name": "Événementiel international & rayonnement africain",
+        "description": "Conception de forums, salons, conférences et événements majeurs à fort impact comme La Grande Soirée de l’Afrique ou Africa IT Summit."
+      }
+    },
+    "locations": {
+      "mg": {
+        "name": "Madagascar",
+        "status": "Siège Social"
+      },
+      "mu": {
+        "name": "Île Maurice",
+        "status": "Bureau Régional"
+      },
+      "intl": {
+        "name": "International",
+        "status": "Expansion Active"
+      }
+    },
+    "activity": "Nos Activités",
+    "activity_title": "Des secteurs stratégiques au service d'un développement intégré, durable et panafricain.",
+
+    "implantation": "Nos Implantations",
+    "implantation_title": "Présence Internationale",
+    "implantation_description": "Un réseau stratégique en expansion continue pour servir nos clients à travers le monde.",
+    "expansion_title": "Expansion Continue",
+    "expansion_description": "Notre stratégie de développement international nous positionne comme un acteur clé dans l'océan Indien et au-delà.",
+    "president": {
+      "title": "Mot du PDG",
+      "name": "Rojo Claudino Andrianasolo",
+      "role": "Président – Gate Africa Group",
+      "paragraphs": [
+        "« L'Afrique est riche de ses talents, de ses idées, de ses ressources. Ce qu'il lui faut aujourd'hui, c'est un écosystème capable de structurer cette richesse, de la faire grandir, et de la connecter à des opportunités réelles. C'est là qu'intervient Gate Africa Group. »",
+        "Notre mission est claire : accompagner la transformation du continent secteur par secteur, en plaçant l'éducation, la technologie, la santé, l'agriculture, les médias, le développement économique et l'innovation au cœur de notre stratégie.",
+        "Implanté à Madagascar, à l'île Maurice et tourné vers l'international, notre groupe agit comme un pont entre les compétences africaines et les marchés mondiaux, tout en restant profondément ancré dans les réalités locales.",
+        "À travers nos universités, nos plateformes numériques, nos événements panafricains, nos projets agro-industriels, nos actions dans la santé, le tourisme, le business development ou encore le recrutement, nous croyons à une Afrique forte, autonome et connectée.",
+        "Et parce que nous avons un cœur avant tout, nous plaçons également l'humain au centre de notre engagement. À travers notre ONG Gate Africa Humanitarian, nous agissons aux côtés des communautés pour soutenir la scolarisation des enfants, lutter contre le cancer infantile, protéger l'environnement, prévenir les violences basées sur le genre, et accompagner les plus vulnérables.",
+        "Développer l'Afrique, c'est aussi faire grandir les autres.",
+        "Gate Africa Group, ce n'est pas seulement un groupe multisectoriel. C'est une vision, une mécanique d'impact, et une volonté constante de bâtir l'Afrique de demain avec méthode, confiance et audace.",
+        "« Le développement n'est pas une promesse, c'est une construction. Et nous en posons les fondations. »"
+      ]
+    },
+    "infoCards": {
+      "devise": {
+        "title": "Notre Devise",
+        "description": "« Construire l'Afrique de demain par l'éducation, l'innovation et les opportunités. »"
+      },
+      "vision": {
+        "title": "Notre Vision",
+        "description": "Être un acteur panafricain de référence, capable de connecter les talents, les savoirs, les ressources et les entreprises autour de projets concrets de développement économique, technologique, éducatif et social."
+      },
+      "mission": {
+        "title": "Notre Mission",
+        "list": [
+          "Solutions intégrées dans l'éducation, santé, technologie, agro-industrie, médias",
+          "Former des professionnels pour la transformation économique",
+          "Créer des passerelles vers les marchés internationaux",
+          "Contribuer au développement durable des territoires"
+        ]
+      }
+    }
+  },
+  "africa_magazine": {
+    "title": "Volet média - National & International",
+    "subtitle": "GATE OF AFRICA MAGAZINE",
+    "headline": "Suivez en temps réel",
+    "subheadline": "l'évolution de l'Afrique",
+    "description": "Découvrez l'actualité économique, politique et sociale du continent africain avec le média en ligne de référence du groupe Gate Africa.",
+    "highlights": [
+      "Suivi par des millions de personnes",
+      "Couverture panafricaine",
+      "Actualités en temps réel"
+    ],
+    "cta": "Visitez GateOfAfrica.com",
+    "caption": "Votre source d'information de référence sur l'Afrique"
+  },
+  "radio": {
+    "title": "E-media 107.8 FM",
+    "subtitle": "Votre radio locale préférée",
+    "visitStudio": "Visitez notre studio",
+    "about": {
+      "features": [
+        "Écoutez de la bonne musique, vos émissions préférées et accédez à des contenus éducatifs de qualité.",
+        "E-media FM : la radio économique et éducative numéro 1 à Madagascar, écoutée dans plus de 5 grandes régions du pays."
+      ],
+      "cta": "Écouter la radio",
+      "stats": [
+        { "title": "#1", "subtitle": "Radio Économique" },
+        { "title": "5+", "subtitle": "Grandes Régions" },
+        { "title": "📻", "subtitle": "Contenu Éducatif" }
+      ]
+    }
+  },
+  "university": {
+    "title": "Volet éducation et enseignement supérieur",
+    "learnMore": "En savoir plus",
+    "synergy": "Grâce à cette synergie, nous formons des talents immédiatement opérationnels et parfaitement adaptés aux besoins des entreprises et des institutions.",
+    "sectionHeader": {
+      "badge": "Excellence Académique",
+      "title": "La force de nos 3 universités",
+      "text1": "Notre force réside dans la complémentarité stratégique de nos trois pôles universitaires.",
+      "text2": "Chaque établissement apporte une expertise ciblée — technologies avancées, management stratégique et industries créatives — couvrant ainsi l'ensemble des compétences essentielles pour accompagner les grandes transformations économiques de l'Afrique."
+    },
+    "emedia": {
+      "name": "E-Media",
+      "description": "Université dédiée à l'audiovisuel, au cinéma, au son et aux métiers créatifs de l'image et de la production",
+      "tags": ["Audiovisuel", "Cinéma", "Production"]
+    },
+    "ust": {
+      "name": "UST-IO",
+      "description": "Université spécialisée en robotique, intelligence artificielle, automatisation et technologies émergentes",
+      "tags": ["Robotique", "IA", "Tech"]
+    },
+    "aeli": {
+      "name": "AELI",
+      "description": "Académie orientée vers le BTP, l'énergie, l'entrepreneuriat et les métiers techniques appliqués",
+      "tags": ["BTP", "Énergie", "Business"]
+    }
+  },
+  "health": {
+    "title": "Volet Santé — Clinique Innovation & Medical Tourisme International",
+    "subtitle": "Gate Africa Group développe également des activités dans le domaine de la santé à travers deux structures complémentaires",
+    "clinic": {
+      "title": "Clinique Innovation",
+      "tagline": "Un centre médical moderne, orienté vers la qualité des soins et l'innovation médicale,",
+      "subtagline": "combinant expertise locale et standards internationaux.",
+      "description": "Clinique Innovation propose des soins spécialisés, des services de diagnostic avancés et un accompagnement personnalisé des patients.",
+      "badge1": "Soins spécialisés",
+      "badge2": "Diagnostic avancé",
+      "badge3": "Accompagnement personnalisé",
+      "buttonLabel": "En savoir plus"
+    },
+    "tourism": {
+      "title": "Medical Tourisme International",
+      "tagline": "Une plateforme spécialisée dans l'organisation de parcours de soins internationaux,",
+      "subtagline": "facilitant l'accès des patients aux meilleures structures médicales",
+      "description": "Medical Tourisme International prend en charge l'ensemble du processus : diagnostic, organisation logistique, accompagnement administratif et suivi post-traitement.",
+      "region": "en Afrique, à l'île Maurice, en Inde et en Europe.",
+      "badge1": "Diagnostic",
+      "badge2": "Organisation logistique",
+      "badge3": "Accompagnement administratif",
+      "badge4": "Suivi post-traitement",
+      "buttonLabel": "En savoir plus"
+    }
+  },
+  "sophys": {
+    "title": "Sophys",
+    "subtitle": "— Hygiène, Propreté & Solutions Sanitaires",
+    "paragraph1": "Sophys est la filiale spécialisée de Gate Africa Group dans les métiers de l'hygiène professionnelle, du nettoyage industriel, de la désinfection et des solutions sanitaires globales.",
+    "paragraph2": "Au-delà des services classiques de propreté, Sophys développe également ses propres gammes de produits d'entretien et de désinfection, dont la marque <span> VIRUSTOP </span>, permettant de garantir à ses clients des standards de qualité et de sécurité maîtrisés de bout en bout.",
+    "badge1": "Qualité maîtrisée",
+    "badge2": "Solutions sanitaires",
+    "stat1": "100%",
+    "stat2": "24/7",
+    "satisfaction": "Satisfaction",
+    "guarantee": "Garantie",
+    "buttonLabel": "En savoir plus"
+  },
+  "landmark": {
+    "title": "Landm'Ark",
+    "subtitle": "Communication, Marketing & Événementiel",
+    "description1": "est la filiale spécialisée de Gate Africa Group dans les métiers de la communication, du marketing stratégique et de l'événementiel à forte valeur ajoutée.",
+    "description2": "Alliant créativité, expertise technique et approche terrain, Landm'Ark accompagne les entreprises et institutions dans la conception et la mise en œuvre de leurs stratégies de communication, de visibilité et de développement de marque, en Afrique et à l'international.",
+    "description3": {
+      "before": "Grâce à ses équipes expérimentées, ses équipements professionnels et son réseau international, Landm'Ark propose des ",
+      "highlight": "solutions intégrées",
+      "after": " et innovantes, adaptées aux besoins des acteurs économiques publics et privés."
+    },
+    "buttonLabel": "En savoir plus",
+    "download": "Télécharger la brochure"
+  },
+  "agribusiness": {
+    "title": "Gate Africa Agribusiness",
+    "tagline": "Agriculture & Agro-Industrie",
+    "description": "<span>Gate Africa Agribusiness</span> est la branche agricole et agro-industrielle de Gate Africa Group, engagée dans le développement des filières stratégiques de production, de transformation et de valorisation agricole.",
+    "subdescription1": "Notre approche intègre l'ensemble de la chaîne de valeur, depuis la production jusqu'à la commercialisation, en favorisant les modèles durables, l'innovation technologique et l'agro-entrepreneuriat.",
+    "subdescription2": "Gate Africa Agribusiness contribue activement à la souveraineté alimentaire, à la création d'emplois locaux et au développement économique durable, en positionnant l'agriculture comme <span>un véritable moteur de croissance</span> en Afrique.",
+    "badge": "véritable moteur de croissance",
+    "buttonLabel": "En savoir plus"
+  },
+
+  "gateAfricaDigital": {
+    "title": "Digital & Technology Division",
+    "num": "Digital",
+    "tech": "Technology",
+    "description": "Accelerating Africa's digital transformation through innovation, artificial intelligence and digital solutions.",
+    "domainsTitle": "Our areas of expertise",
+    "domains": [
+      {
+        "title": "Digital Platforms",
+        "description": "Development of digital platforms (education, media, recruitment, social economy)"
+      },
+      {
+        "title": "Artificial Intelligence",
+        "description": "Artificial intelligence & automation (through our technological university UST-IO)"
+      },
+      {
+        "title": "Cybersecurity & Cloud",
+        "description": "Cybersecurity, cloud and digital infrastructure"
+      },
+      {
+        "title": "Digital Content",
+        "description": "Creation of digital content, audiovisual production and pan-African media"
+      },
+      {
+        "title": "Digital Transformation",
+        "description": "Digital transformation of businesses and administrations"
+      }
+    ],
+    "projectsTitle": "Digital projects for the future",
+    "projectsDescription": "Two revolutionary initiatives under development",
+    "projectBadge": "Coming soon",
+    "inDevelopment": "In development",
+    "projects": [
+      {
+        "name": "GateAfri",
+        "subtitle": "Réseau socio-économique",
+        "description": "Le réseau panafricain pour connecter talents, entreprises et opportunités à travers le continent.",
+        "image": "https://res.cloudinary.com/dikefxjpd/image/upload/v1750660067/africagate_u18a88.jpg",
+        "color": "indigo",
+        "features": ["Réseau Social", "Opportunités", "Talents", "Continental"],
+        "badge": "À venir"
+      },
+      {
+        "name": "Afrimuz",
+        "subtitle": "Plateforme musicale",
+        "description": "Une plateforme musicale pour valoriser les artistes africains à l'échelle mondiale.",
+        "image": "https://res.cloudinary.com/dikefxjpd/image/upload/v1750660067/africamuz_lqpkh7.jpg",
+        "color": "fuchsia",
+        "features": ["Musique", "Culture", "Artistes", "International"],
+        "badge": "À venir"
+      }
+    ]
+  },
+  "gateAfricaRecruitment": {
+    "hero": {
+      "title": "Volet <span> Business Development </span> & Tourisme d'affaires",
+      "subtitle1": "Connexions Stratégiques",
+      "text1": "Créer des connexions stratégiques et ouvrir des marchés à travers l’Afrique et au-delà. Gate Africa Group accompagne le développement économique des entreprises.",
+      "subtitle2": "Approche Intégrée",
+      "text2": "Nous accompagnons les investisseurs et institutions grâce à une approche intégrée, combinant expertise sectorielle, mise en relation stratégique et accompagnement sur mesure."
+    },
+    "cooperationAxes": {
+      "title": "Nos axes de coopération",
+      "items": [
+        {
+          "title": "B2B",
+          "description": "Connexions stratégiques entre entreprises"
+        },
+        {
+          "title": "B2C",
+          "description": "Mise en relation entreprises - clients finaux"
+        },
+        {
+          "title": "B2A",
+          "description": "Partenariats entreprises - administrations"
+        },
+        {
+          "title": "B2G",
+          "description": "Collaboration entreprises - gouvernements"
+        },
+        {
+          "title": "G2G",
+          "description": "Coopération institutionnelle internationale"
+        }
+      ]
+    },
+    "services": {
+      "title": "Nos services",
+      "items": [
+        "Planification de voyages professionnels sectoriels (éducation, santé, agro, tech, etc.)",
+        "Accompagnement des délégations d'investisseurs ou de décideurs publics",
+        "Organisation de visites d'entreprises, forums et séjours de prospection",
+        "Services logistiques et protocole haut de gamme"
+      ]
+    }
+  },
+  "internationnal": {
+    "title": "Volet événementiel",
+    "highlight": "international",
+    "intro": "Créer des plateformes de rencontre, d'innovation et d'influence à l'échelle africaine et mondiale. Gate Africa Group conçoit et organise des événements à fort impact, destinés à connecter les talents, les entreprises, les institutions et les acteurs du changement en Afrique et à l'international.",
+    "missionTitle": "Notre Mission",
+    "missionText": "Nos événements visent à renforcer les synergies entre secteurs stratégiques, promouvoir la coopération et accélérer le développement économique.",
+    "eventsTitle": "Nos rendez-vous phares",
+    "events": [
+      {
+        "title": "Carrefour de l'Emploi",
+        "subtitle": "Édition Madagascar",
+        "description": "Forum international du recrutement, mettant en relation les talents africains avec les employeurs du monde entier.",
+        "subtext": "Il favorise la mobilité professionnelle, la mise en valeur des compétences locales et la création d'opportunités à l'étranger.",
+        "badge": "MADAGASCAR",
+        "color": "cyan"
+      },
+      {
+        "title": "La Grande Soirée de l'Afrique",
+        "subtitle": "Édition Madagascar 2025",
+        "description": "Un événement culturel, économique et institutionnel qui célèbre l'excellence africaine.",
+        "subtext": "Une soirée de rayonnement continental.",
+        "badge": "MADAGASCAR 2025",
+        "color": "amber"
+      },
+      {
+        "title": "Africa IT Summit",
+        "subtitle": "Édition Maurice (2026)",
+        "description": "Le sommet panafricain dédié à la transformation digitale, à l'IA et à l'innovation technologique.",
+        "subtext": "Réunira décideurs, institutions, entreprises tech et partenaires autour des enjeux numériques.",
+        "badge": "MAURICE 2026",
+        "color": "purple"
+      }
+    ]
+  },
+  "footer": {
+    "aboutText": "Ensemble, responsabiliser l’avenir de toute l’Afrique ! Rejoignez Gate Africa Group pour transformer des vies grâce à l’éducation, la santé et l’innovation pour un avenir meilleur !",
+    "contactTitle": "Contact",
+    "address": "Nanisana, Antananarivo 101, Madagascar",
+    "phone": "+23054884377",
+    "email": "contact@gateafricagroup.com",
+    "newsletterTitle": "Newsletter",
+    "newsletterText": "Abonnez-vous à notre newsletter pour recevoir les dernières actualités et offres spéciales.",
+    "placeholder": "Votre adresse email",
+    "subscribe": "S’abonner",
+    "rights": "Tous droits réservés."
+  }
+}
