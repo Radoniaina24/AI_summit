@@ -83,7 +83,7 @@ export default function Home() {
           label: "Découvrir nos services",
           href: "/services",
         }}
-        backgroundImage="https://res.cloudinary.com/dikefxjpd/image/upload/v1754026495/bannie%C3%A8re_2_se0bvh.jpg"
+        backgroundImage="/images/back.jpg"
         secondaryButton={{
           label: "Voir la démo",
           href: "/demo",
