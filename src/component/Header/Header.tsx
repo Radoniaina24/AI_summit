@@ -452,7 +452,7 @@ export const Navigation: React.FC<NavigationProps> = ({
               }`}
             >
               <div className="bg-gray-50 rounded-2xl border border-gray-100">
-                {item.children?.map((child, childIndex) => (
+                {item.children?.map((child) => (
                   <Link
                     key={child.id}
                     href={child.href}
